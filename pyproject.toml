@@ -7,7 +7,7 @@ license = "GNU GPLv3"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "3.10.12"
 pandas = "^2.1.4"
 fastapi = "^0.109.0"
 streamlit = "^1.30.0"

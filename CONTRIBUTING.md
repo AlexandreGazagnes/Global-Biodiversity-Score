@@ -5,7 +5,7 @@
 - The complete test suite depends on having at least the following installed
   (possibly not a complete list)
   - git (Version 2.24.0 or above is required )
-  - python3.11 (Required by a test which checks different python versions)
+  - python3.10.x (Required by a test which checks different python versions)
   - tox (or venv)
   - poetry, pip, pipeenv, virtualenv, or similar
 
