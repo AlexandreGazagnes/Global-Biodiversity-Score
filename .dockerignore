@@ -17,4 +17,4 @@ pyproject.toml
 requirements.dev.txt
 .gitignore
 *.pyc
-.venv
+.venvdocs/
