@@ -13,6 +13,7 @@ fastapi = "^0.109.0"
 streamlit = "^1.30.0"
 uvicorn = "^0.25.0"
 requests = "^2.31.0"
+black = {extras = ["jupyter"], version = "^23.12.1"}
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.12.1"
