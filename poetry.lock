@@ -813,6 +813,23 @@ files = [
 ]
 
 [[package]]
+name = "ghp-import"
+version = "2.1.0"
+description = "Copy your docs directly to the gh-pages branch."
+optional = false
+python-versions = "*"
+files = [
+    {file = "ghp-import-2.1.0.tar.gz", hash = "sha256:9c535c4c61193c2df8871222567d7fd7e5014d835f97dc7b7439069e2413d343"},
+    {file = "ghp_import-2.1.0-py3-none-any.whl", hash = "sha256:8337dd7b50877f163d4c0289bc1f1c7f127550241988d568c1db512c4324a619"},
+]
+
+[package.dependencies]
+python-dateutil = ">=2.8.1"
+
+[package.extras]
+dev = ["flake8", "markdown", "twine", "wheel"]
+
+[[package]]
 name = "gitdb"
 version = "4.0.11"
 description = "Git Object Database"
@@ -1644,6 +1661,21 @@ htmlsoup = ["BeautifulSoup4"]
 source = ["Cython (>=3.0.7)"]
 
 [[package]]
+name = "markdown"
+version = "3.5.2"
+description = "Python implementation of John Gruber's Markdown."
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "Markdown-3.5.2-py3-none-any.whl", hash = "sha256:d43323865d89fc0cb9b20c75fc8ad313af307cc087e84b657d9eec768eddeadd"},
+    {file = "Markdown-3.5.2.tar.gz", hash = "sha256:e1ac7b3dc550ee80e602e71c1d168002f062e49f1b11e26a36264dafd4df2ef8"},
+]
+
+[package.extras]
+docs = ["mdx-gh-links (>=0.2)", "mkdocs (>=1.5)", "mkdocs-gen-files", "mkdocs-literate-nav", "mkdocs-nature (>=0.6)", "mkdocs-section-index", "mkdocstrings[python]"]
+testing = ["coverage", "pyyaml"]
+
+[[package]]
 name = "markdown-it-py"
 version = "3.0.0"
 description = "Python port of markdown-it. Markdown parsing, done right!"
@@ -1802,6 +1834,17 @@ files = [
 ]
 
 [[package]]
+name = "mergedeep"
+version = "1.3.4"
+description = "A deep merge function for 🐍."
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "mergedeep-1.3.4-py3-none-any.whl", hash = "sha256:70775750742b25c0d8f36c55aed03d24c3384d17c951b3175d898bd778ef0307"},
+    {file = "mergedeep-1.3.4.tar.gz", hash = "sha256:0096d52e9dad9939c3d975a774666af186eda617e6ca84df4c94dec30004f2a8"},
+]
+
+[[package]]
 name = "mistune"
 version = "3.0.2"
 description = "A sane and fast Markdown parser with useful plugins and renderers"
@@ -1811,6 +1854,36 @@ files = [
     {file = "mistune-3.0.2-py3-none-any.whl", hash = "sha256:71481854c30fdbc938963d3605b72501f5c10a9320ecd412c121c163a1c7d205"},
     {file = "mistune-3.0.2.tar.gz", hash = "sha256:fc7f93ded930c92394ef2cb6f04a8aabab4117a91449e72dcc8dfa646a508be8"},
 ]
+
+[[package]]
+name = "mkdocs"
+version = "1.5.3"
+description = "Project documentation with Markdown."
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "mkdocs-1.5.3-py3-none-any.whl", hash = "sha256:3b3a78e736b31158d64dbb2f8ba29bd46a379d0c6e324c2246c3bc3d2189cfc1"},
+    {file = "mkdocs-1.5.3.tar.gz", hash = "sha256:eb7c99214dcb945313ba30426c2451b735992c73c2e10838f76d09e39ff4d0e2"},
+]
+
+[package.dependencies]
+click = ">=7.0"
+colorama = {version = ">=0.4", markers = "platform_system == \"Windows\""}
+ghp-import = ">=1.0"
+jinja2 = ">=2.11.1"
+markdown = ">=3.2.1"
+markupsafe = ">=2.0.1"
+mergedeep = ">=1.3.4"
+packaging = ">=20.5"
+pathspec = ">=0.11.1"
+platformdirs = ">=2.2.0"
+pyyaml = ">=5.1"
+pyyaml-env-tag = ">=0.1"
+watchdog = ">=2.0"
+
+[package.extras]
+i18n = ["babel (>=2.9.0)"]
+min-versions = ["babel (==2.9.0)", "click (==7.0)", "colorama (==0.4)", "ghp-import (==1.0)", "importlib-metadata (==4.3)", "jinja2 (==2.11.1)", "markdown (==3.2.1)", "markupsafe (==2.0.1)", "mergedeep (==1.3.4)", "packaging (==20.5)", "pathspec (==0.11.1)", "platformdirs (==2.2.0)", "pyyaml (==5.1)", "pyyaml-env-tag (==0.1)", "typing-extensions (==3.10)", "watchdog (==2.0)"]
 
 [[package]]
 name = "mypy"
@@ -2874,6 +2947,20 @@ files = [
 ]
 
 [[package]]
+name = "pyyaml-env-tag"
+version = "0.1"
+description = "A custom YAML tag for referencing environment variables in YAML files. "
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "pyyaml_env_tag-0.1-py3-none-any.whl", hash = "sha256:af31106dec8a4d68c60207c1886031cbf839b68aa7abccdb19868200532c2069"},
+    {file = "pyyaml_env_tag-0.1.tar.gz", hash = "sha256:70092675bda14fdec33b31ba77e7543de9ddc88f2e5b99160396572d11525bdb"},
+]
+
+[package.dependencies]
+pyyaml = "*"
+
+[[package]]
 name = "pyzmq"
 version = "25.1.2"
 description = "Python bindings for 0MQ"
@@ -3927,4 +4014,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "3.10.12"
-content-hash = "b03693397b2bc50d1296a0fc1bbda88d0adb5db422180bd3be22b28e14eff5de"
+content-hash = "9a04b2de953959222fb9acd44306c4283ab4b5a4f07812ebca06938d8bdd9976"

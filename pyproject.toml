@@ -36,6 +36,7 @@ mccabe = "^0.7.0"
 safety = "^2.3.5"
 pre-commit = "^3.6.0"
 pycln = "^2.4.0"
+mkdocs = "^1.5.3"
 
 [build-system]
 requires = ["poetry-core"]
