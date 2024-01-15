@@ -1,3 +1,3 @@
-class GBS:
+class Gbs:
     def __init__(self):
         pass
