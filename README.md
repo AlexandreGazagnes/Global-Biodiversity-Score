@@ -6,17 +6,17 @@
 # global-biodiversity-score
 
 
-## About 
+## About
 
 ### Context
 
-CDC Biodiversité is a subsidiary of the Caisse des Dépôts et Consignation, the largest French financial institution. It is specialized in providing biodiversity-positive solutions to businesses such as ecological offsets and biodiversity footprinting. 
+CDC Biodiversité is a subsidiary of the Caisse des Dépôts et Consignation, the largest French financial institution. It is specialized in providing biodiversity-positive solutions to businesses such as ecological offsets and biodiversity footprinting.
 
 The Global Biodiversity Score® (GBS®) is a tool developed by CDC Biodiversité to measure corporate and investments’ biodiversity impacts.
 The tool is used by an ecosystem of companies, financial institutions, consultants and
 academics.
 
-More information can be found at : 
+More information can be found at :
 * [2022 - N18-TRAVAUX-DU-CLUB-B4B-G
 BS-UK-MD-WEB.pdf](https://www.mission-economie-biodiversite.com/wp-content/uploads/2022/01/N18-TRAVAUX-DU-CLUB-B4B-GBS-UK-MD-WEB.pdf)
 * [2020 - N15-TRAVAUX-DU-CLUB-B4B-GBS-UK-MD-WEB.pdf](http://www.mission-economie-biodiversite.com/wp-content/uploads/2020/09/N15-TRAVAUX-DU-CLUB-B4B-GBS-UK-MD-WEB.pdf)
@@ -24,7 +24,7 @@ BS-UK-MD-WEB.pdf](https://www.mission-economie-biodiversite.com/wp-content/uploa
 
 ### Goals
 
-The GBS can assess biodiversity of various commodities such as agricultural crops : 
+The GBS can assess biodiversity of various commodities such as agricultural crops :
 * The biodiversity impact results are expressed in MSA.km² (mean species abundance times km²)
 and could be detailed by pressure on such as land use or climate change.
 
@@ -39,7 +39,7 @@ by wheat in every country (in MSA.km²) in 2019.
 
 Please clone the repository using the following command :
 
-* for https : 
+* for https :
 ```bash
 https://github.com/AlexandreGazagnes/Global-Biodiversity-Score.git
 ```
@@ -50,19 +50,19 @@ git clone git@github.com:AlexandreGazagnes/Global-Biodiversity-Score.git
 
 ### Install the dependencies
 
-The project uses [Poetry](https://python-poetry.org/) to manage its dependencies. Please install it using the following command : 
+The project uses [Poetry](https://python-poetry.org/) to manage its dependencies. Please install it using the following command :
 
 ```bash
 pip install poetry
 ```
 
-Then, please install the dependencies using the following command : 
+Then, please install the dependencies using the following command :
 
 ```bash
 poetry install
 ```
 
-Alternatively, you can install the dependencies using the following command : 
+Alternatively, you can install the dependencies using the following command :
 
 ```bash
 python3 -m venv .venv
