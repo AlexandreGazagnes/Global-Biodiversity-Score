@@ -3,7 +3,7 @@
 
 import streamlit as st
 
-from gbs.core.gbs import GBS
+from gbs.core.gbs import Gbs
 
 # header image
 img = "./assets/img.png"
