@@ -1,0 +1,9 @@
+site_name: cdc-biodiversity
+
+site_description: CDC Biodiversité is a subsidiary of the Caisse des Dépôts et Consignation, the largest French financial institution. It is specialized in providing biodiversity-positive solutions to businesses such as ecological offsets and biodiversity footprinting.
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme: readthedocs
