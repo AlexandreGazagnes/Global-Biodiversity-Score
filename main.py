@@ -2,6 +2,7 @@
 # import sys
 
 import streamlit as st
+from gbs.front.text import Text
 
 from gbs.core.gbs import Gbs
 
@@ -11,10 +12,5 @@ st.image(img)
 
 
 # title
-st.title("Global Biodiversity Score")
-st.write(
-    """
-GBS enables companies and financial institutions to measure their impact on biodiversity and integrate this information into their operational management policy and decision-making strategy. 
-In this way, they can align themselves with international objectives and constantly evolving regulations..
-"""
-)
+st.title(Text.title)
+st.write(Text.descr)
