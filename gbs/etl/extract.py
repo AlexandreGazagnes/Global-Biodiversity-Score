@@ -31,7 +31,7 @@ class Extract:
         production_json: str | None = None,
         verbose: bool = False,
     ):
-        """Initializes the Extract class."""
+        """Initialize the Extract class."""
 
         # data folder / subfolder
         self.base = base if base else self.BASE
@@ -58,7 +58,7 @@ class Extract:
         self._check_folders()
 
     def get_crops(self, out="crops.csv"):
-        """ """
+        """Get crops."""
 
         dest = os.path.join(self.base, self.folder, self.subfolder, out)
         std_out, std_err = runcmd(f"wget -O {dest} '{self.crops_url}'")
@@ -70,7 +70,7 @@ class Extract:
         self,
         out="country_specs.csv",
     ):
-        """ """
+        """Get country specs."""
 
         dest = os.path.join(self.base, self.folder, self.subfolder, out)
         std_out, std_err = runcmd(
@@ -88,7 +88,7 @@ class Extract:
         mv=True,
         rename=True,
     ):
-        """ """
+        """Get production files."""
 
         if curl:
             self._curl_production(out=out)
@@ -102,7 +102,7 @@ class Extract:
         return
 
     def _curl_production(self, out="production.zip"):
-        """ """
+        """Curl production files."""
 
         dest = os.path.join(self.base, self.folder, self.subfolder, out)
         std_out, std_err = runcmd(
@@ -113,7 +113,7 @@ class Extract:
             return dest
 
     def _unzip_production(self):
-        """ """
+        """Unzip production files."""
 
         # TODO: make this more robust : do not use absolute path
         # dest = os.path.join(self.base, self.folder, self.subfolder)
@@ -128,7 +128,7 @@ class Extract:
             return "./data/source/"
 
     def _mv_production(self):
-        """ """
+        """Moove production files to production folder."""
 
         # TODO: make this more robust : do not use absolute path
 
@@ -147,7 +147,7 @@ class Extract:
             return "./data/source/production/"
 
     def _rename_production(self):
-        """ """
+        """Rename production files to lowercase."""
 
         # update filenames to lowercase
         path = "data/source/production/"
@@ -239,4 +239,6 @@ class Extract:
         self.check_files()
 
     def __repr__(self) -> str:
+        """Representation of the class."""
+
         return f"Extract({self.__dict__})"
