@@ -1,12 +1,12 @@
-import os
-import logging
 import json
+import logging
+import os
 import shutil
 
 import pandas as pd
 
-from gbs.helpers import runcmd
 from gbs.etl.urls import Urls
+from gbs.helpers import runcmd
 
 
 class Extract:
