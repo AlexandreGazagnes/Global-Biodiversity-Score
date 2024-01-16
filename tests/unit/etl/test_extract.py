@@ -35,7 +35,7 @@ class TestExtract:
             )
         )
 
-    def test_clean(self):
+    def test_clean(self, extract):
         """Test the clean method of the Extract class."""
 
         extract.clean()
