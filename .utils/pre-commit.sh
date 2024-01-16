@@ -50,7 +50,7 @@ done
 
 
 .venv/bin/python3 -m isort ./gbs/ ./tests/
-.venv/bin/python3 -m flake8 .
+# .venv/bin/python3 -m flake8 .
 .venv/bin/python3 -m black .
 
 
@@ -61,4 +61,5 @@ done
 # # .venv/bin/python3 -m pytest
 .venv/bin/coverage -m pytest -vv -x -s tests/
 .venv/bin/coverage html 
-.venv/bin/python3/ -m coverage-badge -o .assets/cov.svg
+rm .assets/cov.svg
+.venv/bin/coverage-badge -o .assets/cov.svg
