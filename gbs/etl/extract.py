@@ -2,6 +2,8 @@ import os
 import logging
 import json
 
+import pandas as pd
+
 from gbs.helpers import runcmd
 from gbs.etl.urls import Urls
 
@@ -204,6 +206,37 @@ class Extract:
         """Clean up data folder."""
 
         os.remove(os.path.join(self.base, self.folder))
+
+    def check_files(self):
+        """Check if files are df."""
+
+        # TODO: make this more robust : do not use absolute path
+
+        ext = ".csv"
+
+        for path in ["./data/source", "./data/source/production"]:
+            for fn in os.listdir(path):
+                logging.info(f"Checking file: {fn}")
+
+                if not fn.endswith(ext):
+                    continue
+
+                df = pd.read_csv(os.path.join(path, fn))
+
+                assert isinstance(df, pd.DataFrame)
+                assert df.shape[0] > 0
+                assert df.shape[1] > 0
+
+    def get_all(self, clean: bool = False):
+        """Get all data."""
+
+        if clean:
+            self.clean()
+
+        self.get_crops()
+        self.get_county_specs()
+        self.get_production()
+        self.check_files()
 
     def __repr__(self) -> str:
         return f"Extract({self.__dict__})"
