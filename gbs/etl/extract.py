@@ -87,6 +87,7 @@ class Extract:
         curl=True,
         unzip=True,
         mv=True,
+        decode=True,
         rename=True,
     ):
         """Get production files."""
@@ -97,6 +98,8 @@ class Extract:
             self._unzip_production()
         if mv:
             self._mv_production()
+        if decode:
+            self._decode_production()
         if rename:
             self._rename_production()
 
@@ -146,6 +149,26 @@ class Extract:
 
         if not std_err:
             return "./data/source/production/"
+
+    def _decode_production(self):
+        """Decode production files."""
+
+        fn_list = [
+            os.path.join("data/source/production/", i)
+            for i in os.listdir("data/source/production/")
+            if i.endswith(".csv")
+        ]
+        for fn in fn_list:
+            # read file
+            with open(fn, "r", encoding="latin-1") as f:
+                txt = f.read()
+
+            # clean file
+            txt.replace(",'", ",")
+
+            # write file
+            with open(fn, "w", encoding="utf8") as f:
+                f.write(txt)
 
     def _rename_production(self):
         """Rename production files to lowercase."""
@@ -240,7 +263,10 @@ class Extract:
     def get_all(
         self,
         clean: bool = False,
-        include_production: bool = True,
+        crops: bool = True,
+        country_specs: bool = True,
+        production: bool = True,
+        check_files: bool = True,
     ):
         """Get all data."""
 
@@ -249,16 +275,21 @@ class Extract:
             self.clean()
             self.make_folders()
 
-        # get data from urls
-        self.get_crops()
-        self.get_country_specs()
+        # crops
+        if crops:
+            self.get_crops()
+
+        # country specs
+        if country_specs:
+            self.get_country_specs()
 
         # get production if needed
-        if include_production:
+        if production:
             self.get_production()
 
         # check files
-        self.check_files(include_production=include_production)
+        if check_files:
+            self.check_files(production=production)
 
         # normal file list
         not_prod_list = [
