@@ -1,7 +1,7 @@
 ![image](./assets/img.png)
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  ![Python](https://img.shields.io/badge/python-3.10.x-green.svg) ![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)  [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/) [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/) ![Coverage](./assets/cov.svg)
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  ![Python](https://img.shields.io/badge/python-3.11.x-green.svg) ![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)  [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/) [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
 
 # global-biodiversity-score
 
@@ -33,7 +33,6 @@ by wheat in every country (in MSA.km²) in 2019.
 
 
 ## Installation
-
 
 ### Clone the repository
 
@@ -77,7 +76,6 @@ The project is divided into 3 parts :
 * *core* : contains the core functions of the project
 * *front* : contains the front-end of the project
 * *api* : api of the project
-
 
 
 ## Contributing

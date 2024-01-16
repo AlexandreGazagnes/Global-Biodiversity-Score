@@ -7,12 +7,15 @@ license = "GNU GPLv3"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "3.10.12"
 pandas = "^2.1.4"
 fastapi = "^0.109.0"
 streamlit = "^1.30.0"
 uvicorn = "^0.25.0"
 requests = "^2.31.0"
+black = {extras = ["jupyter"], version = "^23.12.1"}
+openpyxl = "^3.1.2"
+
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.12.1"
@@ -35,6 +38,8 @@ mccabe = "^0.7.0"
 safety = "^2.3.5"
 pre-commit = "^3.6.0"
 pycln = "^2.4.0"
+mkdocs = "^1.5.3"
+coverage-badge = "^1.1.0"
 
 [build-system]
 requires = ["poetry-core"]
@@ -53,3 +58,6 @@ include_trailing_comma = true
 force_grid_wrap = 0
 use_parentheses = true
 ensure_newline_before_comments = true
+
+[tool.coverage.run]
+disable_warnings = ["no-data-collected"]
