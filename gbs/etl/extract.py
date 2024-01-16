@@ -211,14 +211,20 @@ class Extract:
         # os.rmdir(os.path.join(self.base, self.folder))
         shutil.rmtree(os.path.join(self.base, self.folder))
 
-    def check_files(self):
+    def check_files(self, include_production=True):
         """Check if files are df."""
 
         # TODO: make this more robust : do not use absolute path
 
         ext = ".csv"
 
-        for path in ["./data/source", "./data/source/production"]:
+        # path list with or without production
+        path_list = ["./data/source"]
+        if include_production:
+            path_list.append("./data/source/production")
+
+        # check files
+        for path in path_list:
             for fn in os.listdir(path):
                 logging.info(f"Checking file: {fn}")
 
@@ -231,26 +237,43 @@ class Extract:
                 assert df.shape[0] > 0
                 assert df.shape[1] > 0
 
-    def get_all(self, clean: bool = False):
+    def get_all(
+        self,
+        clean: bool = False,
+        include_production: bool = True,
+    ):
         """Get all data."""
 
+        # clean if needed
         if clean:
             self.clean()
+            self.make_folders()
 
+        # get data from urls
         self.get_crops()
         self.get_country_specs()
-        self.get_production()
-        self.check_files()
 
+        # get production if needed
+        if include_production:
+            self.get_production()
+
+        # check files
+        self.check_files(include_production=include_production)
+
+        # normal file list
         not_prod_list = [
             i for i in os.listdir("./data/source/") if i.endswith(".csv")
         ]
 
-        prod_list = [
-            i
-            for i in os.listdir("./data/source/production/")
-            if i.endswith(".csv")
-        ]
+        # production file list
+        if include_production:
+            prod_list = [
+                i
+                for i in os.listdir("./data/source/production/")
+                if i.endswith(".csv")
+            ]
+        else:
+            prod_list = []
 
         return not_prod_list + prod_list
 
