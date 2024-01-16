@@ -4,12 +4,19 @@
 # clean notebooks output
 ###########################
 
-# clean notebooks /notebooks/
+for f in *.ipynb
+do
+  jupyter nbconvert --clear-output --inplace $f
+done
+
 for f in ./*/*.ipynb
 do
-  # # html   # jupyter nbconvert --to html $f
-  jupyter nbconvert --clear-output --inplace $f   # clear output
-  # jupytext --to py:percent $f   # .py
+  jupyter nbconvert --clear-output --inplace $f
+done
+
+for f in ./*/*/*.ipynb
+do
+  jupyter nbconvert --clear-output --inplace $f
 done
 
 
@@ -43,13 +50,16 @@ done
 ###########################
 
 
+.venv/bin/python3 -m isort ./gbs/ ./tests/
 .venv/bin/python3 -m flake8 .
 .venv/bin/python3 -m black .
 
 
-###########################
-# pytest
-###########################
+# ###########################
+# # pytest & coverage 
+# ###########################
 
-# .venv/bin/python3 -m pytest
-.venv/bin/python3 -m pytest -vv -x -s tests/
+# # .venv/bin/python3 -m pytest
+.venv/bin/coverage -m pytest -vv -x -s tests/
+.venv/bin/coverage html 
+.venv/bin/python3/ -m coverage-badge -o .assets/cov.svg

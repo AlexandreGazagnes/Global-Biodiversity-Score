@@ -4,15 +4,20 @@
 # # clean notebooks output
 # ###########################
 
-# for f in *.ipynb
-# do
-#   jupyter nbconvert --clear-output --inplace $f
-# done
+for f in *.ipynb
+do
+  jupyter nbconvert --clear-output --inplace $f
+done
 
-# for f in ./*/*.ipynb
-# do
-#   jupyter nbconvert --clear-output --inplace $f
-# done
+for f in ./*/*.ipynb
+do
+  jupyter nbconvert --clear-output --inplace $f
+done
+
+for f in ./*/*/*.ipynb
+do
+  jupyter nbconvert --clear-output --inplace $f
+done
 
 
 ###########################
@@ -44,13 +49,16 @@
 ###########################
 
 
+.venv/bin/python3 -m isort ./gbs/ ./tests/
 .venv/bin/python3 -m flake8 .
 .venv/bin/python3 -m black .
 
 
 # ###########################
-# # pytest
+# # pytest & coverage 
 # ###########################
 
 # # .venv/bin/python3 -m pytest
-# .venv/bin/python3 -m pytest -vv -x -s tests/
+.venv/bin/coverage -m pytest -vv -x -s tests/
+.venv/bin/coverage html 
+.venv/bin/python3/ -m coverage-badge -o .assets/cov.svg
