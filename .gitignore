@@ -162,9 +162,13 @@ cython_debug/
 
 # Project specific
 
+# folders 
 datasite/
 docs/site/
 data/
+htmlcov
+
+# files
 *.csv
 *.zip
 *.xls
