@@ -47,6 +47,7 @@ folium = "^0.15.1"
 geopandas = "^0.14.2"
 missingno = "^0.5.2"
 
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
