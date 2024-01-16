@@ -1,6 +1,7 @@
 import os
 import logging
 import json
+import shutil
 
 import pandas as pd
 
@@ -66,7 +67,7 @@ class Extract:
         if not std_err:
             return dest
 
-    def get_county_specs(
+    def get_country_specs(
         self,
         out="country_specs.csv",
     ):
@@ -205,7 +206,10 @@ class Extract:
     def clean(self):
         """Clean up data folder."""
 
-        os.remove(os.path.join(self.base, self.folder))
+        # remove data folder
+        # os.remove(os.path.join(self.base, self.folder))
+        # os.rmdir(os.path.join(self.base, self.folder))
+        shutil.rmtree(os.path.join(self.base, self.folder))
 
     def check_files(self):
         """Check if files are df."""
@@ -234,7 +238,7 @@ class Extract:
             self.clean()
 
         self.get_crops()
-        self.get_county_specs()
+        self.get_country_specs()
         self.get_production()
         self.check_files()
 
