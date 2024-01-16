@@ -35,6 +35,9 @@ jobs:
       - name: View poetry --help
         run: poetry --help
 
+      - name: poetry Install
+        run: poetry install
+
       - name: Run tests with pytest
         run: |
           poetry run pytest
