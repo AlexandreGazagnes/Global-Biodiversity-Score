@@ -95,4 +95,10 @@ class TestExtract:
     def test_check_folders(self, extract):
         """Test the _check_folders method of the Extract class."""
 
-        assert extract.make_files()
+        extract.check_files()
+
+    @pytest.mark.parametrize("clean", [True, False])
+    def test_get_all(self, extract, clean):
+        """Test the get_all method of the Extract class."""
+
+        extract.get_all(clean=clean)
