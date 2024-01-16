@@ -238,6 +238,18 @@ class Extract:
         self.get_production()
         self.check_files()
 
+        not_prod_list = [
+            i for i in os.listdir("./data/source/") if i.endswith(".csv")
+        ]
+
+        prod_list = [
+            i
+            for i in os.listdir("./data/source/production/")
+            if i.endswith(".csv")
+        ]
+
+        return not_prod_list + prod_list
+
     def __repr__(self) -> str:
         """Representation of the class."""
 
