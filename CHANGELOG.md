@@ -3,11 +3,11 @@
 ## Updated 
 - .head() in notebooks 
 - url for final df
-- .pdf for notebooks
 
 ## To do 
 
 ### Must Have 
+- .pdf for notebooks => fix jupytext => try latex, pdf or html export
 - Use much more comments in noteboks 
 - Publish streamlit app OR Tableau dashboard
 - Use makerfile or main.py to add cli interface 
