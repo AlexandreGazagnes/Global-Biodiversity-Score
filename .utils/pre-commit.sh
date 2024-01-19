@@ -4,20 +4,20 @@
 # # clean notebooks output
 # ###########################
 
-for f in *.ipynb
-do
-  jupyter nbconvert --clear-output --inplace $f
-done
+# for f in *.ipynbp
+# do
+#   jupyter nbconvert --clear-output --inplace $f
+# done
 
 for f in ./*/*.ipynb
 do
   jupyter nbconvert --clear-output --inplace $f
 done
 
-for f in ./*/*/*.ipynb
-do
-  jupyter nbconvert --clear-output --inplace $f
-done
+# for f in ./*/*/*.ipynb
+# do
+#   jupyter nbconvert --clear-output --inplace $f
+# done
 
 
 ###########################
@@ -31,18 +31,26 @@ done
 # do
 #   jupytext --to py:percent $f
 #   fn=$(basename $f); #   echo "FN => $fn"
-#   new="./src/"$fn ; #   echo "new => $new"
+#   new="./gbs/notebooks/"$fn ; #   echo "new => $new"
 #   mv $f $new
 # done
 
-# for f in ./*/*.ipynb
-# do
-#   jupytext --to py:percent $f
-#   fn=$(basename $f); #   echo "FN => $fn"
-#   new="./src/"$fn ; #   echo "new => $new"
-#   mv $f $new
-# done
+for f in ./*/*.ipynb
+do
+  jupytext --to py:percent $f
+  fn=$(basename $f); #   echo "FN => $fn"
+  new="./gbs/notebooks/"$fn ; #   echo "new => $new"
+  # mv $f $new
+done
 
+
+for f in ./*/*.ipynb
+do
+  jupytext --to pdf $f
+  fn=$(basename $f); #   echo "FN => $fn"
+  # new="./gbs/notebooks/"$fn ; #   echo "new => $new"
+  # mv $f $new
+done
 
 ###########################
 # black and flake8
