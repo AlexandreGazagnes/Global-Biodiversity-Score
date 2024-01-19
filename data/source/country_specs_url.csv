@@ -1,0 +1,242 @@
+globio_country_name,globio_country_code,image_region_code,USS30_region_name,alpha_2_code,alpha_3_code,FAO_country_code,FAO_country_name,aquastat_country_name,BGS_country_name,USGS_country_name,exiobase_region_name,exiobase_region_alpha_code,exiobase_region_alpha_code_2,exiobase_region_group_code,exiobase_region_group_name,exiobase_region_id,is_EU27,is_south_america,official_name_in_english,FAO_FRA_country_name,FAO_country_code_terrestrial_irrigation
+Afghanistan,4,18,Rest S Asia,AF,AFG,2.0,Afghanistan,Afghanistan,Afghanistan,Afghanistan,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Islamic State of Afghanistan,Afghanistan,2.0
+Albania,8,12,C.Europe,AL,ALB,3.0,Albania,Albania,Albania,Albania,RoW Europe,WWE,WE,11.0,Rest of World,47.0,,,Republic of Albania,Albania (Desk study),3.0
+Algeria,12,7,N.Africa,DZ,DZA,4.0,Algeria,Algeria,Algeria,Algeria,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,People's Democratic Republic of Algeria,Algeria,4.0
+American Samoa,16,24,Oceania,AS,ASM,5.0,American Samoa,American Samoa,American Samoa,American Samoa,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,American Samoa,American Samoa,5.0
+Andorra,20,11,W.Europe,AD,AND,,Andorra,Andorra,Andorra,Andorra,,,,,,,,,Principality of Andorra,Andorra,6.0
+Angola,24,10,Rest S Africa,AO,AGO,7.0,Angola,Angola,Angola,Angola,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Angola,Angola,7.0
+Anguilla,660,4,Rest C.Am.,AI,AIA,258.0,Anguilla,Anguilla,Anguilla,Anguilla,,,,,Rest of World,46.0,,,Anguilla,Anguilla (Desk study),258.0
+Antarctica,10,26,,AQ,ATA,,Antarctica,Antarctica,Antarctica,Antarctica,,,,,,,,,Antarctica,,
+Antigua and Barbuda,28,4,Rest C.Am.,AG,ATG,8.0,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Antigua and Barbuda,Antigua and Barbuda (Desk study),8.0
+Argentina,32,6,Rest S.Am.,AR,ARG,9.0,Argentina,Argentina,Argentina,Argentina,RoW America,WWL,WL,11.0,Rest of World,46.0,,x,Argentine Republic,Argentina,9.0
+Armenia,51,16,Russia,AM,ARM,1.0,Armenia,Armenia,Armenia,Armenia,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Republic of Armenia,Armenia,1.0
+Aruba,533,4,Rest C.Am.,AW,ABW,22.0,Aruba,Aruba,Aruba,Aruba,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Aruba,Aruba (Desk study),22.0
+Australia,36,24,Oceania,AU,AUS,10.0,Australia,Australia,Australia,Australia,Australia,AUS,AU,6.0,Australia,38.0,,,Australia,Australia,10.0
+Austria,40,11,W.Europe,AT,AUT,11.0,Austria,Austria,Austria,Austria,Austria,AUT,AT,1.0,European Union,1.0,x,,Republic of Austria,Austria,11.0
+Azerbaijan,31,16,Russia,AZ,AZE,52.0,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Azerbaijani Republic,Azerbaijan,52.0
+Bahamas,44,4,Rest C.Am.,BS,BHS,12.0,Bahamas,Bahamas,Bahamas,Bahamas,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Commonwealth of the Bahamas,Bahamas,12.0
+Bahrain,48,17,M.East,BH,BHR,13.0,Bahrain,Bahrain,Bahrain,Bahrain,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,State of Bahrain,Bahrain (Desk study),13.0
+Bangladesh,50,18,Rest S Asia,BD,BGD,16.0,Bangladesh,Bangladesh,Bangladesh,Bangladesh,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,People's Republic of Bangladesh,Bangladesh,16.0
+Barbados,52,4,Rest C.Am.,BB,BRB,14.0,Barbados,Barbados,Barbados,Barbados,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Barbados,Barbados,14.0
+Belarus,112,14,Ukraine,BY,BLR,57.0,Belarus,Belarus,Belarus,Belarus,RoW Europe,WWE,WE,11.0,Rest of World,47.0,,,Republic of Belarus,Belarus,57.0
+Belgium,56,11,W.Europe,BE,BEL,255.0,Belgium,Belgium,Belgium,Belgium,Belgium,BEL,BE,1.0,European Union,2.0,x,,Kingdom of Belgium,Belgium,255.0
+Belize,84,4,Rest C.Am.,BZ,BLZ,23.0,Belize,Belize,Belize,Belize,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Belize,Belize,23.0
+Benin,204,8,W.Africa,BJ,BEN,53.0,Benin,Benin,Benin,Benin,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Benin,Benin,53.0
+Bermuda,60,4,Rest C.Am.,BM,BMU,17.0,Bermuda,Bermuda,Bermuda,Bermuda,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Bermuda,Bermuda (Desk study),17.0
+Bhutan,64,18,Rest S Asia,BT,BTN,18.0,Bhutan,Bhutan,Bhutan,Bhutan,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Kingdom of Bhutan,Bhutan,18.0
+Bolivia,68,6,Rest S.Am.,BO,BOL,19.0,Bolivia (plurinational state of),Bolivia (Plurinational State of),Bolivia,Bolivia,RoW America,WWL,WL,11.0,Rest of World,46.0,,x,Republic of Bolivia,Bolivia (Plurinational State of),19.0
+Bosnia and Herzegovina,70,12,C.Europe,BA,BIH,80.0,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia & Herzegovina,Bosnia and Herzegovina,RoW Europe,WWE,WE,11.0,Rest of World,47.0,,,Republic of Bosnia and Herzegovina,Bosnia and Herzegovina (Desk study),80.0
+Botwana,72,10,Rest S Africa,BW,BWA,20.0,Botswana,Botswana,Botswana,Botswana,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Botswana,Botswana,20.0
+Bouvet Island,74,6,Rest S.Am.,BV,BVT,,Bouvet Island,Bouvet Island,Bouvet Island,Bouvet Island,,,,,,,,,Bouvet Island,,31.0
+Brazil,76,5,Brazil,BR,BRA,21.0,Brazil,Brazil,Brazil,Brazil,Brazil,BRA,BR,4.0,South America,34.0,,x,Federative Republic of Brazil,Brazil,21.0
+British Indian Ocean Territory,86,18,Rest S Asia,IO,IOT,,British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,,,,,,,,,British Indian Ocean Territory,,
+Brunei Darussalam,96,21,SE.Asia,BN,BRN,26.0,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Brunei Darussalam,Brunei Darussalam,26.0
+Bulgaria,100,12,C.Europe,BG,BGR,27.0,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgaria,BGR,BG,1.0,European Union,3.0,x,,Republic of Bulgaria,Bulgaria,27.0
+Burkina Faso,854,8,W.Africa,BF,BFA,233.0,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Burkina Faso,Burkina Faso,233.0
+Burundi,108,9,E.Africa,BI,BDI,29.0,Burundi,Burundi,Burundi,Burundi,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Burundi,Burundi,29.0
+Cambodia,116,21,SE.Asia,KH,KHM,115.0,Cambodia,Cambodia,Cambodia,Cambodia,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Kingdom of Cambodia,Cambodia,115.0
+Cameroon,120,8,W.Africa,CM,CMR,32.0,Cameroon,Cameroon,Cameroon,Cameroon,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Cameroon,Cameroon,32.0
+Canada,124,1,Canada,CA,CAN,33.0,Canada,Canada,Canada,Canada,Canada,CAN,CA,2.0,North America,32.0,,,Canada,Canada,33.0
+Cape Verde,132,8,W.Africa,CV,CPV,35.0,Cape Verde,Cabo Verde,Cape Verde,Cape Verde,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Cape Verde,Cabo Verde,35.0
+Cayman Islands,136,4,Rest C.Am.,KY,CYM,36.0,Cayman Islands,Cayman Islands,Cayman Islands,Cayman Islands,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Cayman Islands,Cayman Islands (Desk study),36.0
+Central African Republic,140,8,W.Africa,CF,CAF,37.0,Central African Republic,Central African Republic,Central African Republic,Central African Republic,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Central African Republic,Central African Republic,37.0
+Chad,148,8,W.Africa,TD,TCD,39.0,Chad,Chad,Chad,Chad,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Chad,Chad,39.0
+Chile,152,6,Rest S.Am.,CL,CHL,40.0,Chile,Chile,Chile,Chile,RoW America,WWL,WL,11.0,Rest of World,46.0,,x,Republic of Chile,Chile,40.0
+China,156,20,China,CN,CHN,41.0,"China, mainland",China,China,China,China,CHN,CN,3.0,Asia,31.0,,,People's Republic of China,China,41.0
+Christmas Island,162,24,Oceania,CX,CXR,,Christmas Island,Christmas Island,Christmas Island,Christmas Island,,,,,,,,,Christmas Island,,42.0
+Cocos (Keeling) Islands,166,24,Oceania,CC,CCK,,Cocos (Keeling) Islands,Cocos (Keeling) Islands,Cocos (Keeling) Islands,Cocos (Keeling) Islands,,,,,,,,,Cocos (Keeling) Islands,,43.0
+Colombia,170,6,Rest S.Am.,CO,COL,44.0,Colombia,Colombia,Colombia,Colombia,RoW America,WWL,WL,11.0,Rest of World,46.0,,x,Republic of Colombia,Colombia,44.0
+Comoros,174,9,E.Africa,KM,COM,45.0,Comoros,Comoros,Comoros,Comoros,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Islamic Federal Republic of the Comoros,Comoros,45.0
+Congo,178,8,W.Africa,CG,COG,46.0,Congo,Congo,Congo,Congo - Kinshasa,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of the Congo,Congo,46.0
+"Congo, the Democratic Republic of the",180,8,W.Africa,CD,COD,250.0,Democratic Republic of the Congo,Democratic Republic of the Congo,"Congo, Democratic Republic",Congo - Brazzaville,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,The Democratic Republic of the Congo,Democratic Republic of the Congo,250.0
+Cook Islands,184,24,Oceania,CK,COK,47.0,Cook Islands,Cook Islands,Cook Islands,Cook Islands,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Cook Islands,Cook Islands,47.0
+Costa Rica,188,4,Rest C.Am.,CR,CRI,48.0,Costa Rica,Costa Rica,Costa Rica,Costa Rica,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Republic of Costa Rica,Costa Rica,48.0
+Côte d'Ivoire,384,8,W.Africa,CI,CIV,107.0,Côte d'Ivoire,Côte d'Ivoire,Ivory Coast,Cote D'Ivoire,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Côte d'Ivoire,Côte d'Ivoire,107.0
+Croatia,191,12,C.Europe,HR,HRV,98.0,Croatia,Croatia,Croatia,Croatia,Croatia,HRV,HR,1.0,European Union,13.0,x,,Republic of Croatia,Croatia,98.0
+Cuba,192,4,Rest C.Am.,CU,CUB,49.0,Cuba,Cuba,Cuba,Cuba,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Republic of Cuba,Cuba,49.0
+Cyprus,196,12,C.Europe,CY,CYP,50.0,Cyprus,Cyprus,Cyprus,Cyprus,Cyprus,CYP,CY,1.0,European Union,4.0,x,,Republic of Cyprus,Cyprus,50.0
+Czech Republic,203,12,C.Europe,CZ,CZE,167.0,Czech republic,Czechia,Czech Republic,Czech Republic,Czech Republic,CZE,CZ,1.0,European Union,5.0,x,,Czech Republic,Czechia,167.0
+Denmark,208,11,W.Europe,DK,DNK,54.0,Denmark,Denmark,Denmark,Denmark,Denmark,DNK,DK,1.0,European Union,7.0,x,,Kingdom of Denmark,Denmark,54.0
+Djibouti,262,9,E.Africa,DJ,DJI,72.0,Djibouti,Djibouti,Djibouti,Djibouti,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Djibouti,Djibouti,72.0
+Dominica,212,4,Rest C.Am.,DM,DMA,55.0,Dominica,Dominica,Dominica,Dominica,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Commonwealth of Dominica,Dominica,55.0
+Dominican Republic,214,4,Rest C.Am.,DO,DOM,56.0,Dominican Republic,Dominican Republic,Dominican Republic,Domincan Republic,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Dominican Republic,Dominican Republic,56.0
+East Timor,626,22,Indonesia,TP,TMP,176.0,Timor-Leste,Timor-Leste,East Timor,East Timor,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,East Timor,Timor-Leste,176.0
+Ecuador,218,6,Rest S.Am.,EC,ECU,58.0,Ecuador,Ecuador,Ecuador,Ecuador,RoW America,WWL,WL,11.0,Rest of World,46.0,,x,Republic of Ecuador,Ecuador,58.0
+Egypt,818,7,N.Africa,EG,EGY,59.0,Egypt,Egypt,Egypt,Egypt,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Arab Republic of Egypt,Egypt,59.0
+El Salvador,222,4,Rest C.Am.,SV,SLV,60.0,El Salvador,El Salvador,El Salvador,El Salvador,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Republic of El Salvador,El Salvador,60.0
+Equatorial Guinea,226,8,W.Africa,GQ,GNQ,61.0,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Equatorial Guinea,Equatorial Guinea,61.0
+Eritrea,232,9,E.Africa,ER,ERI,178.0,Eritrea,Eritrea,Eritrea,Eritrea,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Eritrea,Eritrea,178.0
+Estonia,233,12,C.Europe,EE,EST,63.0,Estonia,Estonia,Estonia,Estonia,Estonia,EST,EE,1.0,European Union,8.0,x,,Republic of Estonia,Estonia,63.0
+Ethiopia,231,9,E.Africa,ET,ETH,238.0,Ethiopia,Ethiopia,Ethiopia,Ethiopia,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Federal Democratic Republic of Ethiopia,Ethiopia,238.0
+Falklands Islands (Malvinas),238,6,Rest S.Am.,FK,FLK,65.0,Falkland Islands (Malvinas),Falkland Islands (Malvinas),Falklands Islands (Malvinas),Falklands Islands (Malvinas),,,,,Rest of World,46.0,,,Falklands Islands (Malvinas),Falkland Islands (Malvinas) (Desk study),65.0
+Faroe Islands,234,11,W.Europe,FO,FRO,64.0,Faeroe Islands,Faeroe Islands,Faroe Islands,Faroe Islands,RoW Europe,WWE,WE,11.0,Rest of World,47.0,,,Faroe Islands,Faroe Islands,64.0
+Fiji,242,24,Oceania,FJ,FJI,66.0,Fiji,Fiji,Fiji,Fiji,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Republic of Fiji,Fiji,66.0
+Finland,246,11,W.Europe,FI,FIN,67.0,Finland,Finland,Finland,Finland,Finland,FIN,FI,1.0,European Union,10.0,x,,Republic of Finland,Finland,67.0
+France,250,11,W.Europe,FR,FRA,68.0,France,France,France,France,France,FRA,FR,1.0,European Union,11.0,x,,French Republic,France,68.0
+French Guiana,254,6,Rest S.Am.,GF,GUF,69.0,French Guiana,French Guiana,France (French Guiana),French Guiana,RoW America,WWL,WL,11.0,Rest of World,46.0,,x,French Guiana,French Guyana,69.0
+French Polynesia,258,24,Oceania,PF,PYF,70.0,French Polynesia,French Polynesia,French Polynesia,French Polynesia,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,French Polynesia,French Polynesia (Desk study),70.0
+French Southern Territories,260,24,Oceania,TF,ATF,,French Southern Territories,French Southern Territories,French Southern Territories,French Southern Territories,,,,,,,,,French Southern Territories,,71.0
+Gabon,266,8,W.Africa,GA,GAB,74.0,Gabon,Gabon,Gabon,Gabon,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Gabonese Republic,Gabon,74.0
+Gambia,270,8,W.Africa,GM,GMB,75.0,Gambia,Gambia,Gambia,Gambia,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of the Gambia,Gambia,75.0
+Georgia,268,16,Russia,GE,GEO,73.0,Georgia,Georgia,Georgia,Georgia,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Georgia,Georgia,73.0
+Germany,276,11,W.Europe,DE,DEU,79.0,Germany,Germany,Germany,Germany,Germany,DEU,DE,1.0,European Union,6.0,x,,Federal Republic of Germany,Germany,79.0
+Ghana,288,8,W.Africa,GH,GHA,81.0,Ghana,Ghana,Ghana,Ghana,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Ghana,Ghana,81.0
+Gibraltar,292,11,W.Europe,GI,GIB,,Gibraltar,Gibraltar,Gibraltar,Gibraltar,,,,,,,,,Gibraltar,Gibraltar (Desk study),82.0
+Greece,300,11,W.Europe,GR,GRC,84.0,Greece,Greece,Greece,Greece,Greece,GRC,GR,1.0,European Union,12.0,x,,Hellenic Republic,Greece,84.0
+Greenland,304,25,,GL,GRL,85.0,Greenland,Greenland,Greenland,Greenland,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Greenland,Greenland,85.0
+Grenada,308,4,Rest C.Am.,GD,GRD,86.0,Grenada,Grenada,Grenada,Grenada,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Grenada,Grenada,86.0
+Guadeloupe,312,4,Rest C.Am.,GP,GLP,87.0,Guadeloupe,Guadeloupe,Guadeloupe,Guadeloupe,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Guadeloupe,Guadeloupe,87.0
+Guam,316,24,Oceania,GU,GUM,88.0,Guam,Guam,Guam,Guam,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Guam,Guam,88.0
+Guatemala,320,4,Rest C.Am.,GT,GTM,89.0,Guatemala,Guatemala,Guatemala,Guatemala,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Republic of Guatemala,Guatemala,89.0
+Guinea,324,8,W.Africa,GN,GIN,90.0,Guinea,Guinea,Guinea,Guinea,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Guinea,Guinea,90.0
+Guinea-Bissau,624,8,W.Africa,GW,GNB,175.0,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Guinea-Bissau,Guinea-Bissau (Desk study),175.0
+Guyana,328,6,Rest S.Am.,GY,GUY,91.0,Guyana,Guyana,Guyana,Guyana,RoW America,WWL,WL,11.0,Rest of World,46.0,,x,Republic of Guyana,Guyana,91.0
+Haiti,332,4,Rest C.Am.,HT,HTI,93.0,Haiti,Haiti,Haiti,Haiti,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Republic of Haiti,Haiti,93.0
+Heard Island and McDonald Islands,334,24,Oceania,HM,HMD,,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Heard Island and McDonald Islands,,,,,,,,,Heard Island and McDonald Islands,,92.0
+Holy See (Vatican City State),336,11,W.Europe,VA,VAT,,Holy See (Vatican City State),Holy See (Vatican City State),Holy See (Vatican City State),Holy See (Vatican City State),,,,,,,,,Holy See (Vatican City State),Holy See (Desk study),94.0
+Honduras,340,4,Rest C.Am.,HN,HND,95.0,Honduras,Honduras,Honduras,Honduras,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Republic of Honduras,Honduras,95.0
+Hong Kong,344,20,China,HK,HKG,96.0,"China, Hong Kong SAR","China, Hong Kong SAR",Hong Kong,Hong Kong,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Hong Kong,,96.0
+Hungary,348,12,C.Europe,HU,HUN,97.0,Hungary,Hungary,Hungary,Hungary,Hungary,HUN,HU,1.0,European Union,14.0,x,,Republic of Hungary,Hungary,97.0
+Iceland,352,11,W.Europe,IS,ISL,99.0,Iceland,Iceland,Iceland,Iceland,RoW Europe,WWE,WE,11.0,Rest of World,47.0,,,Republic of Iceland,Iceland,99.0
+India,356,18,India,IN,IND,100.0,India,India,India,India,India,IND,IN,3.0,Asia,35.0,,,Republic of India,India,100.0
+Indonesia,360,22,Indonesia,ID,IDN,101.0,Indonesia,Indonesia,Indonesia,Indonesia,Indonesia,IDN,ID,3.0,Asia,43.0,,,Republic of Indonesia,Indonesia,101.0
+"Iran, Islamic Republic of",364,17,M.East,IR,IRN,102.0,Iran (Islamic Republic of),Iran (Islamic Republic of),Iran,Iran,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Islamic Republic of Iran,Iran (Islamic Republic of),102.0
+Iraq,368,17,M.East,IQ,IRQ,103.0,Iraq,Iraq,Iraq,Iraq,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,Republic of Iraq,Iraq,103.0
+Ireland,372,11,W.Europe,IE,IRL,104.0,Ireland,Ireland,"Ireland, Republic of",Ireland,Ireland,IRL,IE,1.0,European Union,15.0,x,,Ireland,Ireland,104.0
+Israel,376,17,M.East,IL,ISR,105.0,Israel,Israel,Israel,Israel,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,State of Israel,Israel,105.0
+Italy,380,11,W.Europe,IT,ITA,106.0,Italy,Italy,Italy,Italy,Italy,ITA,IT,1.0,European Union,16.0,x,,Italian Republic,Italy,106.0
+Jamaica,388,4,Rest C.Am.,JM,JAM,109.0,Jamaica,Jamaica,Jamaica,Jamaica,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Jamaica,Jamaica,109.0
+Japan,392,23,Japan,JP,JPN,110.0,Japan,Japan,Japan,Japan,Japan,JPN,JP,3.0,Asia,30.0,,,Japan,Japan,110.0
+Jordan,400,17,M.East,JO,JOR,112.0,Jordan,Jordan,Jordan,Jordan,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,Hashemite Kingdom of Jordan,Jordan,112.0
+Kazakstan,398,15,Stan,KZ,KAZ,108.0,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Republic of Kazakstan,Kazakhstan,108.0
+Kenya,404,9,E.Africa,KE,KEN,114.0,Kenya,Kenya,Kenya,Kenya,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Kenya,Kenya,114.0
+Kiribati,296,24,Oceania,KI,KIR,83.0,Kiribati,Kiribati,Kiribati,Kiribati,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Kiribati,Kiribati (Desk study),83.0
+"Korea, Democratic People's Republic of",408,19,Korea,KP,PRK,116.0,Democratic People's Republic of Korea,Democratic People's Republic of Korea,"Korea, Dem. P.R. of",North Korea,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Democratic People's Republic of Korea,Democratic People's Republic of Korea (Desk study),116.0
+"Korea, Republic of",410,19,Korea,KR,KOR,117.0,Republic of Korea,Republic of Korea,Korea (Rep. of),Republic of Korea,South Korea,KOR,KR,3.0,Asia,33.0,,,Republic of Korea,Republic of Korea,117.0
+Kuwait,414,17,M.East,KW,KWT,118.0,Kuwait,Kuwait,Kuwait,Kuwait,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,State of Kuwait,Kuwait (Desk study),118.0
+Kyrgyzstan,417,15,Stan,KG,KGZ,113.0,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Kyrgyz Republic,Kyrgyzstan,113.0
+Lao People's Democratic Republic,418,21,SE.Asia,LA,LAO,120.0,Lao People's Democratic Republic,Lao People's Democratic Republic,Laos,Laos,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Lao People's Democratic Republic,Lao People's Democratic Republic,120.0
+Latvia,428,12,C.Europe,LV,LVA,119.0,Latvia,Latvia,Latvia,Latvia,Latvia,LVA,LV,1.0,European Union,19.0,x,,Republic of Latvia,Latvia,119.0
+Lebanon,422,17,M.East,LB,LBN,121.0,Lebanon,Lebanon,Lebanon,Lebanon,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,Lebanese Republic,Lebanon,121.0
+Lesotho,426,10,Rest S Africa,LS,LSO,122.0,Lesotho,Lesotho,Lesotho,Lesotho,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Kingdom of Lesotho,Lesotho,122.0
+Liberia,430,8,W.Africa,LR,LBR,123.0,Liberia,Liberia,Liberia,Liberia,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Liberia,Liberia,123.0
+Libyan Arab Jamahiriya,434,7,N.Africa,LY,LBY,124.0,Libyan Arab Jamahiriya,Libya,Libyan Arab Jamahiriya,Libyan Arab Jamahiriya,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Socialist People's Libyan Arab Jamahiriya,Libya (Desk study),124.0
+Liechtenstein,438,11,W.Europe,LI,LIE,125.0,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,RoW Europe,WWE,WE,11.0,Rest of World,47.0,,,Principality of Liechtenstein,Liechtenstein,125.0
+Lithuania,440,12,C.Europe,LT,LTU,126.0,Lithuania,Lithuania,Lithuania,Lithuania,Lithuania,LTU,LT,1.0,European Union,17.0,x,,Republic of Lithuania,Lithuania,126.0
+Luxembourg,442,11,W.Europe,LU,LUX,256.0,Luxembourg,Luxembourg,Luxembourg,Luxembourg,Luxembourg,LUX,LU,1.0,European Union,18.0,x,,Grand Duchy of Luxembourg,Luxembourg,256.0
+Macau,446,20,China,MO,MAC,128.0,"China, Macao SAR","China, Macao SAR",Macau,Macau,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Macau,,128.0
+"Macedonia, the former Yugoslav Republic of",807,12,C.Europe,MK,MKD,154.0,The former Yugoslav Republic of Macedonia,North Macedonia,Macedonia,Macedonia,RoW Europe,WWE,WE,11.0,Rest of World,47.0,,,The former Yugoslav Republic of Macedonia,North Macedonia (Desk study),154.0
+Madagascar,450,9,E.Africa,MG,MDG,129.0,Madagascar,Madagascar,Madagascar,Madagascar,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Madagascar,Madagascar,129.0
+Malawi,454,10,Rest S Africa,MW,MWI,130.0,Malawi,Malawi,Malawi,Malawi,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Malawi,Malawi,130.0
+Malaysia,458,21,SE.Asia,MY,MYS,131.0,Malaysia,Malaysia,Malaysia,Malaysia,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Malaysia,Malaysia,131.0
+Maldives,462,18,Rest S Asia,MV,MDV,132.0,Maldives,Maldives,Maldives,Maldives,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Republic of Maldives,Maldives,132.0
+Mali,466,8,W.Africa,ML,MLI,133.0,Mali,Mali,Mali,Mali,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Mali,Mali,133.0
+Malta,470,12,C.Europe,MT,MLT,134.0,Malta,Malta,Malta,Malta,Malta,MLT,MT,1.0,European Union,20.0,x,,Republic of Malta,Malta,134.0
+Marshall Islands,584,24,Oceania,MH,MHL,127.0,Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Republic of the Marshall Islands,Marshall Islands,127.0
+Martinique,474,4,Rest C.Am.,MQ,MTQ,135.0,Martinique,Martinique,Martinique,Martinique,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Martinique,Martinique,135.0
+Mauritania,478,8,W.Africa,MR,MRT,136.0,Mauritania,Mauritania,Mauritania,Mauritania,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Islamic Republic of Mauritania,Mauritania,136.0
+Mauritius,480,9,E.Africa,MU,MUS,137.0,Mauritius,Mauritius,Mauritius,Mauritius,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Mauritius,Mauritius,137.0
+Mayotte,175,9,E.Africa,YT,MYT,270.0,Mayotte,Mayotte,Mayotte,Mayotte,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Mayotte,Mayotte,270.0
+Mexico,484,3,Mexico,MX,MEX,138.0,Mexico,Mexico,Mexico,Mexico,Mexico,MEX,MX,4.0,South America,36.0,,,United Mexican States,Mexico,138.0
+"Micronesia, Federated States of",583,24,Oceania,FM,FSM,145.0,Micronesia (Federated States of),Micronesia (Federated States of),"Micronesia, Federated States of","Micronesia, Federated States of",RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Federated States of Micronesia,Micronesia (Federated States of),145.0
+"Moldova, Republic of",498,14,Ukraine,MD,MDA,146.0,Republic of Moldova,Republic of Moldova,"Moldova, Republic of","Moldova, Republic of",RoW Europe,WWE,WE,11.0,Rest of World,47.0,,,Republic of Moldova,Republic of Moldova,146.0
+Monaco,492,11,W.Europe,MC,MCO,,Monaco,Monaco,Monaco,Monaco,,,,,,,,,Principality of Monaco,Monaco (Desk study),140.0
+Mongolia,496,20,China,MN,MNG,141.0,Mongolia,Mongolia,Mongolia,Mongolia,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Mongolia,Mongolia,141.0
+Montenegro,891,12,C.Europe,ME,MNE,273.0,Montenegro,Montenegro,Montenegro,Montenegro,RoW Europe,WWE,WE,11.0,Rest of World,47.0,,,Montenegro,Montenegro,273.0
+Montserrat,500,4,Rest C.Am.,MS,MSR,142.0,Montserrat,Montserrat,Montserrat,Montserrat,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Montserrat,Montserrat (Desk study),142.0
+Morocco,504,7,N.Africa,MA,MAR,143.0,Morocco,Morocco,Morocco,Morocco,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Kingdom of Morocco,Morocco,143.0
+Mozambique,508,10,Rest S Africa,MZ,MOZ,144.0,Mozambique,Mozambique,Mozambique,Mozambique,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Mozambique,Mozambique,144.0
+Myanmar,104,21,SE.Asia,MM,MMR,28.0,Myanmar,Myanmar,Myanmar,Burma,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Union of Myanmar,Myanmar,28.0
+Namibia,516,10,Rest S Africa,,NAM,147.0,Namibia,Namibia,Namibia,Namibia,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Namibia,Namibia,147.0
+Nauru,520,24,Oceania,NR,NRU,148.0,Nauru,Nauru,Nauru,Nauru,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Republic of Nauru,Nauru (Desk study),148.0
+Nepal,524,18,Rest S Asia,NP,NPL,149.0,Nepal,Nepal,Nepal,Nepal,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Kingdom of Nepal,Nepal,149.0
+Netherlands,528,11,W.Europe,NL,NLD,150.0,Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,NLD,NL,1.0,European Union,21.0,x,,Kingdom of the Netherlands,Netherlands,150.0
+Netherlands Antilles,530,4,Rest C.Am.,AN,ANT,151.0,Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Netherlands Antilles,,151.0
+New Caledonia,540,24,Oceania,NC,NCL,153.0,New Caledonia,New Caledonia,New Caledonia,New Caledonia,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,New Caledonia,New Caledonia (Desk study),153.0
+New Zealand,554,24,Oceania,NZ,NZL,156.0,New Zealand,New Zealand,New Zealand,New Zealand,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,New Zealand,New Zealand,156.0
+Nicaragua,558,4,Rest C.Am.,NI,NIC,157.0,Nicaragua,Nicaragua,Nicaragua,Nicaragua,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Republic of Nicaragua,Nicaragua,157.0
+Niger,562,8,W.Africa,NE,NER,158.0,Niger,Niger,Niger,Niger,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of the Niger,Niger,158.0
+Nigeria,566,8,W.Africa,NG,NGA,159.0,Nigeria,Nigeria,Nigeria,Nigeria,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Federal Republic of Nigeria,Nigeria,159.0
+Niue,570,24,Oceania,NU,NIU,160.0,Niue,Niue,Niue,Niue,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Niue,Niue,160.0
+Norfolk Island,574,24,Oceania,NF,NFK,,Norfolk Island,Norfolk Island,Norfolk Island,Norfolk Island,,,,,,,,,Norfolk Island,Norfolk Island (Desk study),161.0
+Northern Mariana Islands,580,24,Oceania,MP,MNP,,Northern Mariana Islands,Northern Mariana Islands,Northern Mariana Islands,Northern Mariana Islands,,,,,,,,,Commonwealth of the Northern Mariana Islands,Northern Mariana Islands,163.0
+Norway,578,11,W.Europe,NO,NOR,162.0,Norway,Norway,Norway,Norway,Norway,NOR,NO,9.0,Norway,42.0,,,Kingdom of Norway,Norway,162.0
+Occupied Palestinian Territory,376,17,M.East,,,299.0,Occupied Palestinian Territory,Occupied Palestinian Territory,Occupied Palestinian Territory,Occupied Palestinian Territory,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,Occupied Palestinian Territory,Palestine (Desk study),299.0
+Oman,512,17,M.East,OM,OMN,221.0,Oman,Oman,Oman,Oman,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,Sultanate of Oman,Oman,221.0
+Pakistan,586,18,Rest S Asia,PK,PAK,165.0,Pakistan,Pakistan,Pakistan,Pakistan,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Islamic Republic of Pakistan,Pakistan,165.0
+Palau,585,24,Oceania,PW,PLW,,Palau,Palau,Palau,Palau,,,,,,,,,Republic of Palau,Palau,180.0
+Panama,591,4,Rest C.Am.,PA,PAN,166.0,Panama,Panama,Panama,Panama,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Republic of Panama,Panama,166.0
+Papua New Guinea,598,22,Indonesia,PG,PNG,168.0,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Papua New Guinea,Papua New Guinea,168.0
+Paraguay,600,6,Rest S.Am.,PY,PRY,169.0,Paraguay,Paraguay,Paraguay,Paraguay,RoW America,WWL,WL,11.0,Rest of World,46.0,,x,Republic of Paraguay,Paraguay,169.0
+Peru,604,6,Rest S.Am.,PE,PER,170.0,Peru,Peru,Peru,Peru,RoW America,WWL,WL,11.0,Rest of World,46.0,,x,Republic of Peru,Peru,170.0
+Philippines,608,21,SE.Asia,PH,PHL,171.0,Philippines,Philippines,Philippines,Philippines,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Republic of the Philippines,Philippines,171.0
+Pitcairn,612,24,Oceania,PN,PCN,,Pitcairn,Pitcairn,Pitcairn,Pitcairn,,,,,,,,,Pitcairn,Pitcairn (Desk study),172.0
+Poland,616,12,C.Europe,PL,POL,173.0,Poland,Poland,Poland,Poland,Poland,POL,PL,1.0,European Union,22.0,x,,Republic of Poland,Poland,173.0
+Portugal,620,11,W.Europe,PT,PRT,174.0,Portugal,Portugal,Portugal,Portugal,Portugal,PRT,PT,1.0,European Union,23.0,x,,Portuguese Republic,Portugal,174.0
+Puerto Rico,630,4,Rest C.Am.,PR,PRI,177.0,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Puerto Rico,Puerto Rico,177.0
+Qatar,634,17,M.East,QA,QAT,179.0,Qatar,Qatar,Qatar,Qatar,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,State of Qatar,Qatar (Desk study),179.0
+Réunion,638,9,E.Africa,RE,REU,182.0,Réunion,Réunion,Réunion,Réunion,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Réunion,Réunion,182.0
+Romania,642,12,C.Europe,RO,ROM,183.0,Romania,Romania,Romania,Romania,Romania,ROM,RO,1.0,European Union,24.0,x,,Romania,Romania,183.0
+Russian Federation,643,16,Russia,RU,RUS,185.0,Russian Federation,Russian Federation,Russia,Russia,Russian Federation,RUS,RU,5.0,Russia,37.0,,,Russian Federation,Russian Federation,185.0
+Rwanda,646,9,E.Africa,RW,RWA,184.0,Rwanda,Rwanda,Rwanda,Rwanda,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Rwandese Republic,Rwanda (Desk study),184.0
+Saint Helena,654,8,W.Africa,SH,SHN,,Saint Helena,Saint Helena,Saint Helena,Saint Helena,,,,,,,,,Saint Helena,Saint Helena (Desk study),187.0
+Saint Kitts and Nevis,659,4,Rest C.Am.,KN,KNA,188.0,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Saint Kitts and Nevis,Saint Kitts and Nevis (Desk study),188.0
+Saint Lucia,662,4,Rest C.Am.,LC,LCA,189.0,Saint Lucia,Saint Lucia,Saint Lucia,Saint Lucia,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Saint Lucia,Saint Lucia,189.0
+Saint Pierre and Miquelon,666,2,USA,PM,SPM,190.0,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint Pierre and Miquelon,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Saint Pierre and Miquelon,Saint Pierre and Miquelon (Desk study),190.0
+Saint Vincent and the Grenadines,670,4,Rest C.Am.,VC,VCT,191.0,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,191.0
+Samoa,882,24,Oceania,WS,WSM,244.0,Samoa,Samoa,Samoa,Samoa,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Independent State of Western Samoa,Samoa,244.0
+San Marino,674,11,W.Europe,SM,SMR,,San Marino,San Marino,San Marino,San Marino,,,,,,,,,Republic of San Marino,San Marino (Desk study),192.0
+Sao Tome and Principe,678,8,W.Africa,ST,STP,193.0,Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Democratic Republic of Sao Tome and Principe,Sao Tome and Principe,193.0
+Saudi Arabia,682,17,M.East,SA,SAU,194.0,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,Kingdom of Saudi Arabia,Saudi Arabia (Desk study),194.0
+Senegal,686,8,W.Africa,SN,SEN,195.0,Senegal,Senegal,Senegal,Senegal,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Senegal,Senegal,195.0
+Serbia,891,12,C.Europe,RS,SRB,272.0,Serbia,Serbia,Serbia,Serbia,RoW Europe,WWE,WE,11.0,Rest of World,47.0,,,Serbia,Serbia,272.0
+Seychelles,690,9,E.Africa,SC,SYC,196.0,Seychelles,Seychelles,Seychelles,Seychelles,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Seychelles,Seychelles,196.0
+Sierra Leone,694,8,W.Africa,SL,SLE,197.0,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Sierra Leone,Sierra Leone,197.0
+Singapore,702,21,SE.Asia,SG,SGP,200.0,Singapore,Singapore,Singapore,Singapore,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Republic of Singapore,Singapore,200.0
+Slovakia,703,12,C.Europe,SK,SVK,199.0,Slovakia,Slovakia,Slovakia,Slovakia,Slovak Republic,SVK,SK,1.0,European Union,27.0,x,,Slovak Republic,Slovakia,199.0
+Slovenia,705,12,C.Europe,SI,SVN,198.0,Slovenia,Slovenia,Slovenia,Slovenia,Slovenia,SVN,SI,1.0,European Union,26.0,x,,Republic of Slovenia,Slovenia,198.0
+Solomon Islands,90,24,Oceania,SB,SLB,25.0,Solomon Islands,Solomon Islands,Solomon Islands,Solomon Islands,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Solomon Islands,Solomon Islands,25.0
+Somalia,706,9,E.Africa,SO,SOM,201.0,Somalia,Somalia,Somalia,Somalia,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Somali Democratic Republic,Somalia,201.0
+South Africa,710,10,Sth Africa,ZA,ZAF,202.0,South Africa,South Africa,South Africa,South Africa,South Africa,ZAF,ZA,10.0,Africa,44.0,,,Republic of South Africa,South Africa,202.0
+South Georgia and the South Sandwich Islands,239,6,Rest S.Am.,GS,SGS,,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,,,,,,,,,South Georgia and the South Sandwich Islands,,271.0
+South Sudan,736,9,E.Africa,SS,,277.0,South Sudan,South Sudan,South Sudan,South Sudan,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of South Sudan,South Sudan,277.0
+Spain,724,11,W.Europe,ES,ESP,203.0,Spain,Spain,Spain,Spain,Spain,ESP,ES,1.0,European Union,9.0,x,,Kingdom of Spain,Spain,203.0
+Sri Lanka,144,18,Rest S Asia,LK,LKA,38.0,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Democratic Socialist Republic of Sri Lanka,Sri Lanka,38.0
+Sudan,736,9,E.Africa,SD,SDN,276.0,Sudan,Sudan,Sudan,Sudan,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of the Sudan,Sudan,276.0
+Suriname,740,6,Rest S.Am.,SR,SUR,207.0,Suriname,Suriname,Suriname,Suriname,RoW America,WWL,WL,11.0,Rest of World,46.0,,x,Republic of Suriname,Suriname,207.0
+Svalbard and Jan Mayen,744,11,W.Europe,SJ,SJM,,Svalbard and Jan Mayen,Svalbard and Jan Mayen,Svalbard and Jan Mayen,Svalbard and Jan Mayen,Norway,,,9.0,Norway,42.0,,,Svalbard and Jan Mayen,Svalbard and Jan Mayen Islands,260.0
+Swaziland,748,10,Rest S Africa,SZ,SWZ,209.0,Swaziland,Eswatini,Swaziland,Swaziland,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Kingdom of Swaziland,Eswatini,209.0
+Sweden,752,11,W.Europe,SE,SWE,210.0,Sweden,Sweden,Sweden,Sweden,Sweden,SWE,SE,1.0,European Union,25.0,x,,Kingdom of Sweden,Sweden,210.0
+Switzerland,756,11,W.Europe,CH,CHE,211.0,Switzerland,Switzerland,Switzerland,Switzerland,Switzerland,CHE,CH,7.0,Switzerland,39.0,,,Swiss Confederation,Switzerland,211.0
+Syrian Arab Republic,760,17,M.East,SY,SYR,212.0,Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,Syrian Arab Republic,Syrian Arab Republic,212.0
+"Taiwan, Province of China",158,20,China,TW,TWN,214.0,"China, Taiwan Province of","China, Taiwan Province of","Taiwan, Province of China","Taiwan, Province of China",Taiwan,TWN,TW,3.0,Asia,41.0,,,"Taiwan, Province of China",,214.0
+Tajikistan,762,15,Stan,TJ,TJK,208.0,Tajikistan,Tajikistan,Tajikistan,Tajikistan,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Republic of Tajikistan,Tajikistan,208.0
+"Tanzania, United Republic of",834,10,Rest S Africa,TZ,TZA,215.0,United Republic of Tanzania,United Republic of Tanzania,Tanzania,Tanzania,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,United Republic of Tanzania,United Republic of Tanzania,215.0
+Thailand,764,21,SE.Asia,TH,THA,216.0,Thailand,Thailand,Thailand,Thailand,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Kingdom of Thailand,Thailand,216.0
+Togo,768,8,W.Africa,TG,TGO,217.0,Togo,Togo,Togo,Togo,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Togolese Republic,Togo,217.0
+Tokelau,772,24,Oceania,TK,TKL,218.0,Tokelau,Tokelau,Tokelau,Tokelau,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Tokelau,Tokelau (Desk study),218.0
+Tonga,776,24,Oceania,TO,TON,219.0,Tonga,Tonga,Tonga,Tonga,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Kingdom of Tonga,Tonga,219.0
+Trinidad and Tobago,780,4,Rest C.Am.,TT,TTO,220.0,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Republic of Trinidad and Tobago,Trinidad and Tobago,220.0
+Tunisia,788,7,N.Africa,TN,TUN,222.0,Tunisia,Tunisia,Tunisia,Tunisia,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Tunisia,Tunisia,222.0
+Turkey,792,13,Turkey,TR,TUR,223.0,Turkey,Turkey,Turkey,Turkey,Turkey,TUR,TR,8.0,Turkey,40.0,,,Republic of Turkey,Türkiye,223.0
+Turkmenistan,795,15,Stan,TM,TKM,213.0,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Turkmenistan,Turkmenistan (Desk study),213.0
+Turks and Caicos Islands,796,4,Rest C.Am.,TC,TCA,224.0,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,RoW America,WWL,WL,11.0,Rest of World,46.0,,,Turks and Caicos Islands,Turks and Caicos Islands (Desk study),224.0
+Tuvalu,798,24,Oceania,TV,TUV,227.0,Tuvalu,Tuvalu,Tuvalu,Tuvalu,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Tuvalu,Tuvalu,227.0
+Uganda,800,9,E.Africa,UG,UGA,226.0,Uganda,Uganda,Uganda,Uganda,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Uganda,Uganda,226.0
+Ukraine,804,14,Ukraine,UA,UKR,230.0,Ukraine,Ukraine,Ukraine,Ukraine,RoW Europe,WWE,WE,11.0,Rest of World,47.0,,,Ukraine,Ukraine,230.0
+United Arab Emirates,784,17,M.East,AE,ARE,225.0,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,United Arab Emirates,United Arab Emirates (Desk study),225.0
+United Kingdom,826,11,W.Europe,GB,GBR,229.0,United Kingdom,United Kingdom,United Kingdom,United Kingdom,United Kingdom,GBR,GB,1.0,European Union,28.0,,,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,229.0
+United States,840,2,USA,US,USA,231.0,United States of America,United States of America,USA,United States,United States,USA,US,2.0,North America,29.0,,,United States of America,United States of America,231.0
+United States Minor Outlying Islands,581,2,USA,UM,UMI,,United States Minor Outlying Islands,United States Minor Outlying Islands,United States Minor Outlying Islands,United States Minor Outlying Islands,,,,,,,,,United States Minor Outlying Islands,,232.0
+Uruguay,858,6,Rest S.Am.,UY,URY,234.0,Uruguay,Uruguay,Uruguay,Uruguay,RoW America,WWL,WL,11.0,Rest of World,46.0,,x,Eastern Republic of Uruguay,Uruguay,234.0
+Uzbekistan,860,15,Stan,UZ,UZB,235.0,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Republic of Uzbekistan,Uzbekistan,235.0
+Vanuatu,548,24,Oceania,VU,VUT,155.0,Vanuatu,Vanuatu,Vanuatu,Vanuatu,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Republic of Vanuatu,Vanuatu,155.0
+Venezuela,862,6,Rest S.Am.,VE,VEN,236.0,Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of),Venezuela,Venezuela,RoW America,WWL,WL,11.0,Rest of World,46.0,,x,Republic of Venezuela,Venezuela (Bolivarian Republic of),236.0
+Viet Nam,704,21,SE.Asia,VN,VNM,237.0,Viet Nam,Viet Nam,Vietnam,Vietnam,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Socialist Republic of Viet Nam,Viet Nam,237.0
+"Virgin Islands, British",92,4,Rest C.Am.,VG,VGB,239.0,British Virgin Islands,British Virgin Islands,"Virgin Islands, British","Virgin Islands, British",RoW America,WWL,WL,11.0,Rest of World,46.0,,,British Virgin Islands,British Virgin Islands (Desk study),239.0
+"Virgin Islands, U.S.",850,4,Rest C.Am.,VI,VIR,240.0,United States Virgin Islands,United States Virgin Islands,"Virgin Islands, U.S.","Virgin Islands, U.S.",RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Virgin Islands of the United States,United States Virgin Islands,240.0
+Wallis and Futuna,876,24,Oceania,WF,WLF,243.0,Wallis and Futuna Islands,Wallis and Futuna Islands,Wallis and Futuna,Wallis and Futuna,RoW Asia and Pacific,WWA,WA,11.0,Rest of World,45.0,,,Wallis and Futuna,Wallis and Futuna Islands (Desk study),243.0
+Western Sahara,732,7,N.Africa,EH,ESH,205.0,Western Sahara,Western Sahara,Western Sahara,Western Sahara,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Western Sahara,Western Sahara (Desk study),205.0
+Yemen,887,17,M.East,YE,YEM,249.0,Yemen,Yemen,Yemen,Yemen,RoW Middle East,WWM,WM,11.0,Rest of World,49.0,,,Republic of Yemen,Yemen,249.0
+Zambia,894,10,Rest S Africa,ZM,ZMB,251.0,Zambia,Zambia,Zambia,Zambia,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Zambia,Zambia,251.0
+Zimbabwe,716,10,Rest S Africa,ZW,ZWE,181.0,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,RoW Africa,WWF,WF,11.0,Rest of World,48.0,,,Republic of Zimbabwe,Zimbabwe,181.0

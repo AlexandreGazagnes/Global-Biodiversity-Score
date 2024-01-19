@@ -45,6 +45,8 @@ seaborn = "^0.13.1"
 plotly = "^5.18.0"
 folium = "^0.15.1"
 geopandas = "^0.14.2"
+missingno = "^0.5.2"
+
 
 [build-system]
 requires = ["poetry-core"]
