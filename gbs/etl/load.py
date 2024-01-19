@@ -12,4 +12,4 @@ class Loader:
     def final(cls):
         """flaod the final csv into the database"""
 
-        return pd.read_csv(Urls.final_csv)
+        return pd.read_csv(Urls.final)
