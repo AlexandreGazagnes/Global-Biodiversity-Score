@@ -13,10 +13,10 @@ class TestLoader:
     """Test the Loader class."""
 
     def test_final(self):
-        """test final"""
+        """test final method of the Loader class."""
 
         df = Loader.final()
 
         assert isinstance(df, pd.DataFrame)
-        assert len(df) > 0
-        assert len(df.columns) > 0
+        assert df.shape[0] > 0
+        assert df.shape[1] > 0

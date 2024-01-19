@@ -11,4 +11,5 @@ class Urls:
     production = "https://fenixservices.fao.org/faostat/static/bulkdownloads/Production_Crops_Livestock_E_All_Data_(Normalized).zip"
     population = "https://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv"
     gdp = "https://api.worldbank.org/v2/en/indicator/NY.GDP.PCAP.CD?downloadformat=csv"
+    gbs = "https://gist.githubusercontent.com/AlexandreGazagnes/c57072a70e89f38c4375554f668069ab/raw/32f217d46184c806d3df15687c839c02af7661fd/gbs.csv"
     final = "https://gist.githubusercontent.com/AlexandreGazagnes/c57072a70e89f38c4375554f668069ab/raw/32f217d46184c806d3df15687c839c02af7661fd/gbs.csv"
