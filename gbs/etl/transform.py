@@ -8,8 +8,8 @@ import logging
 from IPython.display import display
 
 
-def precleaning(df: pd.DataFrame) -> pd.DataFrame:
-    """ """
+def pre_cleaning(df: pd.DataFrame) -> pd.DataFrame:
+    """Just preprocess columns str"""
 
     # columns
     cols = [i.lower() for i in df.columns]
@@ -26,11 +26,11 @@ def precleaning(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def preprocess_counrty(
-    country_specs,
-    nan_threshold=0.22,
-    verbose=True,
+    country_specs: pd.DataFrame,
+    nan_threshold: float = 0.22,
+    verbose: bool = True,
 ):
-    """ """
+    """Clean Country specs : nan, cols"""
 
     # dropna
     country_specs = _dropna_country(
@@ -48,8 +48,12 @@ def preprocess_counrty(
     return country_specs
 
 
-def _dropna_country(country_specs, nan_threshold=0.22, verbose=True):
-    """ """
+def _dropna_country(
+    country_specs: pd.DataFrame,
+    nan_threshold: float = 0.22,
+    verbose: bool = True,
+):
+    """drop Nan Values cols and rows"""
 
     # work on nan columns
     drop_cols = ["is_EU27", "is_south_america"]
@@ -70,8 +74,8 @@ def _dropna_country(country_specs, nan_threshold=0.22, verbose=True):
     return country_specs
 
 
-def _drop_cols(country_specs, verbose=True):
-    """ """
+def _drop_cols(country_specs: pd.DataFrame, verbose=True):
+    """Drop useless columns"""
 
     # select num cols
     num_cols = country_specs.select_dtypes(
@@ -94,9 +98,3 @@ def _drop_cols(country_specs, verbose=True):
     country_specs = country_specs.loc[:, num_cols + categ_cols]
 
     return country_specs
-
-
-#     crops = crops.loc[crops.item_name == "Wheat", :]
-
-
-# crops

@@ -17,21 +17,28 @@ black = {extras = ["jupyter"], version = "^23.12.1"}
 openpyxl = "^3.1.2"
 click = "^8.1.7"
 
-
 [tool.poetry.group.dev.dependencies]
-black = "^23.12.1"
 jupyter = "^1.0.0"
 notebook = "^7.0.6"
 jupyterlab = "^4.0.10"
+ipykernel = "^6.28.0"
+jupytext = "^1.16.1"
+ipywidgets = "^8.1.1"
+jupyter-contrib-nbextensions = "^0.7.0"
+
+[tool.poetry.group.graphical.dependencies]
+seaborn = "^0.13.1"
+plotly = "^5.18.0"
+folium = "^0.15.1"
+geopandas = "^0.14.2"
+missingno = "^0.5.2"
+
+[tool.poetry.group.qa.dependencies]
 pytest = "^7.4.4"
 isort = "^5.13.2"
 flake8 = "^7.0.0"
 mypy = "^1.8.0"
 coverage = "^7.4.0"
-ipykernel = "^6.28.0"
-jupytext = "^1.16.1"
-ipywidgets = "^8.1.1"
-jupyter-contrib-nbextensions = "^0.7.0"
 bandit = "^1.7.6"
 pyflakes = "^3.2.0"
 pydocstyle = "^6.3.0"
@@ -41,12 +48,9 @@ pre-commit = "^3.6.0"
 pycln = "^2.4.0"
 mkdocs = "^1.5.3"
 coverage-badge = "^1.1.0"
-seaborn = "^0.13.1"
-plotly = "^5.18.0"
-folium = "^0.15.1"
-geopandas = "^0.14.2"
-missingno = "^0.5.2"
 
+[tool.poetry.group.ml.dependencies]
+scikit-learn = "^1.4.0"
 
 [build-system]
 requires = ["poetry-core"]
