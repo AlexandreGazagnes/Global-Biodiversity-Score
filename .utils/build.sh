@@ -2,7 +2,7 @@
 
 # build docker image
 # --progress=plain for showing progress bar
-docker build -f ./Dockerfile  -t gbs:latest .
+sudo docker build -f ./Dockerfile  -t gbs:latest .
 
 # run docker image
 # -d for detached mode
