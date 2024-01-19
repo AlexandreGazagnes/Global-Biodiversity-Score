@@ -3,9 +3,10 @@ import os
 
 import pytest
 
+
 import pandas as pd
 
-from gbs.etl.load import Loader
+from gbs.etl.loader import Loader
 
 
 class TestLoader:
