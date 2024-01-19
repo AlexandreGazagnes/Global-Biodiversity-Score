@@ -8,4 +8,4 @@ class Urls:
     production_json = "https://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json"
     production = "https://fenixservices.fao.org/faostat/static/bulkdownloads/Production_Crops_Livestock_E_All_Data_(Normalized).zip"
     population = "https://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv"
-    gpd = "https://api.worldbank.org/v2/en/indicator/NY.GDP.PCAP.CD?downloadformat=csv"
+    gdp = "https://api.worldbank.org/v2/en/indicator/NY.GDP.PCAP.CD?downloadformat=csv"
