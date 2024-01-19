@@ -5,7 +5,7 @@ import streamlit as st
 
 
 from gbs.front.text import Text
-from gbs.etl.load import Load
+from gbs.etl.load import Loader
 from gbs.core.gbs import Gbs
 
 # header image
@@ -19,7 +19,14 @@ st.write(Text.descr)
 
 
 # load data
-df = Load.final()
+df = Loader.final()
 
-
+st.subheader("Data")
 st.table(df)
+
+
+# gbs
+st.subheader("GBS")
+country = st.selectbox("country_name", df["country_name"].unique())
+if country:
+    st.table(df.loc[df["country_name"] == country])
