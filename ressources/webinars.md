@@ -1,9 +1,12 @@
-Vidéo – présentation du GBS
+## Webinars : 
 
-Vidéo – présentation du Club B4B+
+
+[Vidéo – présentation du GBS
+](https://www.youtube.com/watch?v=39bgjXcjz5c)
+
+[Vidéo – présentation du Club B4B+](https://www.youtube.com/watch?v=5fjrvfmKGE8)
 	
 
- https://www.youtube.com/watch?v=39bgjXcjz5c
 
 
- https://www.youtube.com/watch?v=5fjrvfmKGE8&t=641s
+ 
