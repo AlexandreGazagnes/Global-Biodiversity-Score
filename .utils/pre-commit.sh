@@ -4,20 +4,20 @@
 # # clean notebooks output
 # ###########################
 
-for f in *.ipynb
-do
-  jupyter nbconvert --clear-output --inplace $f
-done
+# for f in *.ipynbp
+# do
+#   jupyter nbconvert --clear-output --inplace $f
+# done
 
 for f in ./*/*.ipynb
 do
   jupyter nbconvert --clear-output --inplace $f
 done
 
-for f in ./*/*/*.ipynb
-do
-  jupyter nbconvert --clear-output --inplace $f
-done
+# for f in ./*/*/*.ipynb
+# do
+#   jupyter nbconvert --clear-output --inplace $f
+# done
 
 
 ###########################
