@@ -7,11 +7,12 @@
 ## To do 
 
 ### Must Have 
-- .pdf for notebooks => fix jupytext => try latex, pdf or html export
-- Use much more comments in noteboks 
 - Publish streamlit app OR Tableau dashboard
+- Use much more comments in noteboks 
 - Use makerfile or main.py to add cli interface 
 - Re enable test policy => true msa.km2 values
+- open in colaboratory button in notebooks
+- .pdf for notebooks => fix jupytext => try latex, pdf or html export
 
 ### Nice to Have 
 - Moove all revelant code to gsb module (class, function, etc.)
