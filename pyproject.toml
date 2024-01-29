@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "global-biodiversity-score"
-version = "0.1.1"
+version = "0.1.2"
 description = "CDC Biodiversité is a subsidiary of the Caisse des Dépôts et Consignation, the largest French financial institution. It is specialized in providing biodiversity-positive solutions to businesses such as ecological offsets and biodiversity footprinting."
 authors = ["AlexandreGazagnes"]
 license = "GNU GPLv3"

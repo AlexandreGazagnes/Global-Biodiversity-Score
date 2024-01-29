@@ -29,7 +29,6 @@ Alternatively, you can install the dependencies using the following command :
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-pip install -r ./utils/requirements-dev.txt
 ```
 ### Running a specific test
 

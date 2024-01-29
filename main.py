@@ -1,5 +1,6 @@
-# import subprocess
-# import sys
+"""
+Main file for the streamlit app.
+"""
 
 import streamlit as st
 

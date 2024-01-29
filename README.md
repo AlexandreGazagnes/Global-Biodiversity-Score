@@ -40,7 +40,7 @@ Please clone the repository using the following command :
 
 * for https :
 ```bash
-https://github.com/AlexandreGazagnes/Global-Biodiversity-Score.git
+git clone https://github.com/AlexandreGazagnes/Global-Biodiversity-Score.git
 ```
 * for ssh :
 ```bash
@@ -67,15 +67,14 @@ Alternatively, you can install the dependencies using the following command :
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-pip install -r ./utils/requirements-dev.txt
 ```
 
 ## Usage
 
 The project is divided into 3 parts :
-* *core* : contains the core functions of the project
+* *core* : contains the core functions of the project (cooming soon)
 * *front* : contains the front-end of the project
-* *api* : api of the project
+* *api* : api of the project (coming soon)
 
 
 ## Contributing

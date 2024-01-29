@@ -1,4 +1,12 @@
-# 0.1.1 2024-01-19 13:00:00- Update 
+# 0.1.2 2024-01-29 13:00:00 - Front and Ops fixes
+
+## Updated
+- fix streamlit app
+- push front in production
+- fix requirements.txt and pyproject.toml
+
+
+# 0.1.1 2024-01-19 13:00:00 - Update 
 
 ## Updated 
 - .head() in notebooks 
@@ -23,7 +31,6 @@
 
 
 # 0.1.0 - 2024-01-19 04:02:00 - 1st public release 
-====================================
 
 ## Features
 - DL data
