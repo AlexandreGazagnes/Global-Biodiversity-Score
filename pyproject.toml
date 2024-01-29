@@ -20,7 +20,6 @@ click = "^8.1.7"
 black = {extras = ["jupyter"], version = "^23.12.1"}
 notebook = "^7.0.6"
 jupyter = "^1.0.0"
-notebook = "^7.0.6"
 jupyterlab = "^4.0.10"
 ipykernel = "^6.28.0"
 jupytext = "^1.16.1"
