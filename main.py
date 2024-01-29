@@ -29,4 +29,5 @@ st.table(df)
 st.subheader("GBS")
 country = st.selectbox("country_name", df["country_name"].unique())
 if country:
-    st.table(df.loc[df["country_name"] == country])
+    tmp = df.loc[df["country_name"] == country]
+    st.table(tmp.T)
